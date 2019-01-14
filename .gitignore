@@ -1,0 +1,3 @@
+*.out
+auxiliary_test_suites/*
+*.class
